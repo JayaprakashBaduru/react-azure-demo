@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'CheckOpsPortal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD51F40A5BFF46A489271413AE84B7C1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FE57418769E14C68AF578A9C016D30AF }}
           package: .
